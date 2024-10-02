@@ -1,4 +1,4 @@
-package core.basic.threads;
+package core_basic.threads;
 
 public class Bank
 {

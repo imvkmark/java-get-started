@@ -1,6 +1,6 @@
-package core.basic.threads;
+package core_basic.threads;
 
-import core.basic.model.Employee;
+import core_basic.model.Employee;
 
 public class ThreadTest
 {

@@ -1,4 +1,4 @@
-package core.basic.util;
+package core_basic.util;
 
 import java.util.Random;
 

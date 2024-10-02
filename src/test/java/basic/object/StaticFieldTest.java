@@ -1,6 +1,6 @@
 package basic.object;
 
-import core.basic.model.Employee;
+import core_basic.model.Employee;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

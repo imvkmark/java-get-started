@@ -1,6 +1,6 @@
-package core.basic.model;
+package core_basic.model;
 
-import core.basic.util.StrHelper;
+import core_basic.util.StrHelper;
 
 public class Employee
 {
