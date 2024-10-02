@@ -28,7 +28,7 @@ class ImageViewerFrame extends JFrame
         setSize(WIDTH, HEIGHT);
 
         // 创建一个标签对象，用于在图形用户界面中显示文本或图标
-        var label = new JLabel("Default Lable");
+        var label = new JLabel("Default label");
         add(label);
 
         // add chooser
